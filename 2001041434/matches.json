@@ -1,0 +1,17 @@
+{
+    "blueTeam": " ",
+    "redTeam": " ",
+    "blueTeamBan": " ",
+    "redTeamBan": " ",
+    "bluePickOrder": " ",
+    "redPickOrder": " ",
+    "blueTeamPick": "铠 盘古 王昭君 马可波罗 张飞",
+    "redTeamPick": "马超 橘右京 西施 成吉思汗 蔡文姬",
+    "注释": "截图方为蓝方填1，为红方填2",
+    "blueRed": 2,
+    "result": 0,
+    "heroList": "铠 盘古 王昭君 马可波罗 张飞 马超 橘右京 西施 成吉思汗 蔡文姬",
+    "position": " ",
+    "skill": " ",
+    "homeTeam": " "
+}
